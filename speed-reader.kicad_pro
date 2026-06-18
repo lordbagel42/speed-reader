@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "dxf/",
+      "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "speed-reader.step",
